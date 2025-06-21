@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "l2tp-ipsec-server"
+		},
+		{
+			"path": "openvpn-server"
+		}
+	],
+	"settings": {}
+}
